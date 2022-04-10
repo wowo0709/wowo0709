@@ -44,9 +44,9 @@
   <img src="https://img.shields.io/badge/Docker-skyblue?style=flat&logo=Docker&logoColor=#2496ED"/>&nbsp;&nbsp;
 </p>
 
-  
+<br>
 ![wowo0709's github stats](https://github-readme-stats.vercel.app/api?username=wowo0709&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wowo0709&layout=compact&theme=cobalt)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wowo0709&layout=compact&theme=cobalt) -->
 
 </div>
 
