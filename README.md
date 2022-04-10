@@ -34,12 +34,13 @@
   
 <p><b>Other Tools</b></p>
 <p>
-  <img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Weights&Biases-yellow?style=flat&logo=Weights&Biases&logoColor=#FFBE00"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MLflow-darkblue?style=flat&logo=MLflow&logoColor=#00549F"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Android Studio-green?style=flat&logo=Android Studio&logoColor=#3DDC84"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-white?style=flat&logo=Jupyter&logoColor=#F37626"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Slack-blueviolet?style=flat&logo=Slack&logoColor=#4A154B"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Docker-skyblue?style=flat&logo=Docker&logoColor=#2496ED"/>&nbsp;&nbsp;
 </p>
