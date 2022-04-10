@@ -1,5 +1,5 @@
 <div align="center">
-<h2> **About Me** </h2>
+  <h2> <bold>About Me</bold> </h2>
 <p><a href="https://wowo0709.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-lightgray?style=plastic&logo=GitHub&logoColor=#181717"/></a></p>
 <p>Hi There! I'm a AI&HCI Engineer/Researcher.</p>
 <p> My main skills are Python, Tensorflow, Pytorch.</p>
