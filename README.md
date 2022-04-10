@@ -1,4 +1,7 @@
-### Hi there 👋
+
+
+<img src="https://img.shields.io/badge/Python-{blue}?style=plastic&logo=Python&logoColor=3776AB"/>
+
 
 <!--
 **wowo0709/wowo0709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
