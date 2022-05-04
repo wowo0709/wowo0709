@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Jupyter-white?style=flat&logo=Jupyter&logoColor=#F37626"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Slack-blueviolet?style=flat&logo=Slack&logoColor=#4A154B"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Docker-skyblue?style=flat&logo=Docker&logoColor=#2496ED"/>&nbsp;&nbsp;
+  <!-- <img src="https://img.shields.io/badge/Docker-skyblue?style=flat&logo=Docker&logoColor=#2496ED"/>&nbsp;&nbsp; -->
 </p>
 
 <br></br>
