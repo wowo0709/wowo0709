@@ -1,7 +1,7 @@
 <div align="center">
   <h2> About Me </h2>
 <p><a href="https://wowo0709.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-lightgray?style=plastic&logo=GitHub&logoColor=#181717"/></a></p>
-<p>Hi There! I'm a student who want to be a AI&HCI Engineer/Researcher.</p>
+<p>Hi There! I'm a student who want to be a Computer Vision Researcher.</p>
 <p> My main skills are Python, Tensorflow, Pytorch.</p>
 <p> I am a person who is always trying and growing.</p>
   
@@ -9,7 +9,7 @@
 <p>💪Exercise,&nbsp;&nbsp;💡AI,&nbsp;&nbsp;👨‍💻HCI,&nbsp;&nbsp;💻Programming</p>
   
   <h2>🔥 Tech Stack 🔥</h2>
-<p><b>Scalable Level</b></p>
+<p><b>Researchable Level</b></p>
 <p>
   <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=TensorFlow&logoColor=#FF6F00"/>&nbsp;&nbsp;
