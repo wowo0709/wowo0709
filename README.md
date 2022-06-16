@@ -1,15 +1,16 @@
 <div align="center">
   <h2> About Me </h2>
 <p><a href="https://wowo0709.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-lightgray?style=plastic&logo=GitHub&logoColor=#181717"/></a></p>
-<p>Hi There! I'm a student who want to be a Computer Vision Researcher.</p>
-<p> My main skills are Python, Tensorflow, Pytorch.</p>
-<p> I am a person who is always trying and growing.</p>
+<p> Hi There! I'm a self-motivated student studying to become a Computer vision/3D Researcher. </p>
+<p> Currently, I'm working as an intern researcher at UNIST AIGS RVI Lab, headed by professor Kyungdon Joo. </p>
+<p> My main skills are Python, Pytorch, and Tensorflow. </p>
+<p> I am a person who is always trying and growing. </p>
   
   <h2> Interests </h2>
 <p>💪Exercise,&nbsp;&nbsp;💡AI,&nbsp;&nbsp;👨‍💻HCI,&nbsp;&nbsp;💻Programming</p>
   
   <h2>🔥 Tech Stack 🔥</h2>
-<p><b>Researchable Level</b></p>
+<p><b>Main Stack</b></p>
 <p>
   <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=TensorFlow&logoColor=#FF6F00"/>&nbsp;&nbsp;
@@ -17,19 +18,12 @@
   
 </p>
 
-<p><b>Writable Level</b></p>
+<p><b>Sub Stack</b></p>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C-pink?style=flat&logo=c&logoColor=#A8B9CC"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C++-blue?style=flat&logo=c++&logoColor=#00599C"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Kotlin-violet?style=flat&logo=Kotlin&logoColor=#7F52FF"/>&nbsp;&nbsp;
-</p>
-  
-<p><b>Readable Level</b></p>
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;
 </p>
   
 <p><b>Other Tools</b></p>
