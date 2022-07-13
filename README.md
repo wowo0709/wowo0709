@@ -2,6 +2,7 @@
   <h2> About Me </h2>
 <p><a href="https://wowo0709.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-lightgray?style=plastic&logo=GitHub&logoColor=#181717"/></a></p>
 <p> Hi There! I'm a self-motivated student studying to become a Computer vision/3D Researcher. </p>
+<p> Currently, I'm working as an intern researcher at POSTECH CV lab headed by professor Jaesik Park. </p>
 <p> My main skills are Python, Pytorch, and Tensorflow. </p>
 <p> I am a person who is always trying and growing. </p>
   
@@ -12,8 +13,8 @@
 <p><b>Main Stack</b></p>
 <p>
   <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=TensorFlow&logoColor=#FF6F00"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PyTorch-red?style=flat&logo=PyTorch&logoColor=#EE4C2C"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=TensorFlow&logoColor=#FF6F00"/>&nbsp;&nbsp;
   
 </p>
 
