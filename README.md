@@ -4,7 +4,7 @@
 <p> Hi There! I'm a self-motivated student studying to become a 3D Computer vision/Computer Graphics Researcher. </p>
 <p> Currently, I'm working as an intern researcher at POSTECH AIGS CV LAB headed by professor Jaesik Park. </p>
 <p> My main skills are Python, Pytorch, and Tensorflow. </p>
-<p> I am a person who is always trying and growing. </p>
+<p> My current goal is rendering a fully generable/editable scene by decomposing/disentangling the scene. </p>
   
   <h2> Interests </h2>
 <p>💪Exercise,&nbsp;&nbsp;💡AI,&nbsp;&nbsp;👨‍💻HCI,&nbsp;&nbsp;💻Programming</p>
