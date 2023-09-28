@@ -2,8 +2,7 @@
   <h2> About Me </h2>
 <p><a href="https://wowo0709.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-lightgray?style=plastic&logo=GitHub&logoColor=#181717"/></a></p>
 <p> Hi There! I'm a self-motivated student studying to become a 3D Computer vision/Computer Graphics Researcher. </p>
-<p> Currently, I'm working as an intern researcher at POSTECH AIGS CV LAB headed by professor Jaesik Park. </p>
-<p> My research goal is developing Neural Radiance Fields (NeRF) to acheive advanced/further applications. </p>
+<p> My research interests includes Neural Radiance Fields (NeRFs) and 3D scene generation. </p>
   
   <h2> Interests </h2>
 <p>💪Exercise,&nbsp;&nbsp;💡AI,&nbsp;&nbsp;👨‍💻HCI,&nbsp;&nbsp;💻Programming</p>
