@@ -1,8 +1,9 @@
 <div align="center">
   <h2> About Me </h2>
 <p><a href="https://wowo0709.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-lightgray?style=plastic&logo=GitHub&logoColor=#181717"/></a></p>
-<p> Hi There! I'm a self-motivated student studying to become a 3D Computer vision/Computer Graphics Researcher. </p>
-<p> My research interests includes Neural Radiance Fields (NeRFs) and 3D scene generation. </p>
+<p> Hi There! I'm a self-motivated student who is deeply interested in 3D computer vision tasks. </p>
+<p> My research interest includes Neural Radiance Fields (NeRFs) and 3D scene generation. </p>
+<p> My research goal is moving toward more flexible and interesting generation/editing by using 3D representation networks.</p>
   
   <h2> Interests </h2>
 <p>💪Exercise,&nbsp;&nbsp;💡AI,&nbsp;&nbsp;👨‍💻HCI,&nbsp;&nbsp;💻Programming</p>
